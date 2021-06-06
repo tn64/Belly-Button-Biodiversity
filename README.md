@@ -34,5 +34,5 @@ The resulting dashboard looks like this:
 ## Deployment
 I then deployed the dashboard to GitHub Pages
 
-<a href="url">The page can be viewed here."</a>
+<a href="url">The page can be viewed here.</a>
 
