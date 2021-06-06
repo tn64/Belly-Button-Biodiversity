@@ -31,8 +31,5 @@ The resulting dashboard looks like this:
 
 <img src="https://github.com/tn64/Belly-Button-Biodiversity/blob/main/static/images/page.png"><br>
 
-## Deployment
-I then deployed the dashboard to GitHub Pages
 
-<a href="https://tn64.github.io/Belly-Button-Biodiversity/">The page can be viewed here.</a>
 
