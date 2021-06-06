@@ -1,7 +1,7 @@
 
 # Belly Button Biodiversity Dashboard
 
-<img src="https://github.com/tn64/Belly-Button-Biodiversity/blob/main/images/Bacteria.png">
+<img src="https://github.com/tn64/Belly-Button-Biodiversity/blob/main/static/images/Bacteria.png">
 
 For this module I built an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 
