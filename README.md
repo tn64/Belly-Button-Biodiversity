@@ -29,7 +29,7 @@ Finally, I created a gauge chart to show belly button washign frequency per week
 
 The resulting dashboard looks like this:
 
-<img src="page"><br>
+<img src="https://github.com/tn64/Belly-Button-Biodiversity/blob/main/static/images/page.png"><br>
 
 ## Deployment
 I then deployed the dashboard to GitHub Pages
