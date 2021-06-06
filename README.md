@@ -19,7 +19,7 @@ I first created two charts:
 
 <img src="https://github.com/tn64/Belly-Button-Biodiversity/blob/main/static/images/bar_chart.png"><br>
 
-- A bubble chart showing the prevalence of bacteria cultures per samples
+- A bubble chart showing the prevalence of bacteria cultures per subject id.
 
 <img src="https://github.com/tn64/Belly-Button-Biodiversity/blob/main/static/images/bubble_chart.png"><br>
 
