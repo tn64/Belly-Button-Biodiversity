@@ -8,7 +8,7 @@ This analysis examines bacteria samples from the Belly Button Biodiversity datas
 The dataset revealed that, of the large number of bacteria species, only a small handful of these species were present in more than 70% of people. The rest were rarely found.
 
 # Tools Used:
-- HTML, CSS, JavaScript, Plotly, Bootstrap
+- HTML, CSS, JavaScript, D3.js, Plotly, Bootstrap
 
 ## Bootstrap and Plotly
 Using Bootstrap and JavaScript, I created test subject and demographic info panels. This allows users to filter demographic data by the subject id.
