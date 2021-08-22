@@ -3,9 +3,12 @@
 
 <img src="https://github.com/tn64/Belly-Button-Biodiversity/blob/main/static/images/Bacteria.png">
 
-For this module I built an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
+This analysis examines bacteria samples from the Belly Button Biodiversity dataset which catalogs the microbes that colonize human navels and then  displays results via an interactive dashboard 
 
 The dataset revealed that, of the large number of bacteria species, only a small handful of these species were present in more than 70% of people. The rest were rarely found.
+
+# Tools Used:
+- HTML, CSS, JavaScript, Plotly, Bootstrap
 
 ## Bootstrap and Plotly
 Using Bootstrap and JavaScript, I created test subject and demographic info panels. This allows users to filter demographic data by the subject id.
