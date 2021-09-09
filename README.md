@@ -3,9 +3,9 @@
 
 <img src="https://github.com/tn64/Belly-Button-Biodiversity/blob/main/static/images/Bacteria.png">
 
-This analysis examines bacteria samples from the Belly Button Biodiversity dataset which catalogs the microbes that colonize human navels and then  displays results via an interactive dashboard 
+This analysis examines bacteria samples from the Belly Button Biodiversity dataset which catalogs the microbes that colonize human navels and then displays results via an interactive dashboard. 
 
-The dataset revealed that, of the large number of bacteria species, only a small handful of these species were present in more than 70% of people. The rest were rarely found.
+The dataset revealed that, of a large number of bacteria species, only a small handful of these species were present in more than 70% of people. The rest were rarely found.
 
 # Tools Used:
 - HTML, CSS, JavaScript, D3.js, Plotly, Bootstrap
